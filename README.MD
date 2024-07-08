@@ -1,5 +1,5 @@
 # Introduction
-Right click menu option which copy path and replace `'\'` with `'/'`, support win11
+Win11 right click menu option, copy path and replace backslash(`'\'`) to slash(`'/'`), friendly to program
 # Install
 - Set infomation in cmake and build
 - Copy binary file(context_menu.dll, installer.exe and uninstaller.exe) to `./sparse_package`
